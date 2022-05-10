@@ -1,0 +1,48 @@
+Welcome to Individual Income Tax System!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 0.0
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 10.0
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 95.0
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 3465.0
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 10925.0
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 

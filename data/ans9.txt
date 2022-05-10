@@ -1,0 +1,79 @@
+Welcome to Individual Income Tax System!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : Illegal input!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : Illegal input!
+Your choose : 
+Please enter the total monthly salary income: Illegal input!
+
+Please enter the total monthly salary income: Your individual income tax is : 0.0
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Choose a type you want to updata:
+0 - start point
+1 - tax rate
+Please enter 0 or 1: 
+Please enter the new start point: Error: The baseline shoule be a non-negative number!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Choose a type you want to updata:
+0 - start point
+1 - tax rate
+Please enter 0 or 1: The tax rate table: 
+          Level          Start            End           Rate
+              1           0.00         500.00           0.05
+              2         500.00        2000.00           0.10
+              3        2000.00        5000.00           0.15
+              4        5000.00       20000.00           0.20
+              5       20000.00            +oo           0.25
+
+Which level you want to updata: 
+Please enter the new rate: Error: The level shoule between 1 and 5!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Choose a type you want to updata:
+0 - start point
+1 - tax rate
+Please enter 0 or 1: The tax rate table: 
+          Level          Start            End           Rate
+              1           0.00         500.00           0.05
+              2         500.00        2000.00           0.10
+              3        2000.00        5000.00           0.15
+              4        5000.00       20000.00           0.20
+              5       20000.00            +oo           0.25
+
+Which level you want to updata: 
+Please enter the new rate: Error: The rate shoule be a non-negative number and must less equal than 1!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : Illegal input!
+Your choose : 

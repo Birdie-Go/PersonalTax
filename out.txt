@@ -1,0 +1,4 @@
+
+You want to 0-calcation, 1-update or 2-exit: Please enter the total monthly salary income: Your individual income tax is : 0.0
+
+You want to 0-calcation, 1-update or 2-exit: 

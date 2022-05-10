@@ -1,0 +1,140 @@
+Welcome to Individual Income Tax System!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 4323.25
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Choose a type you want to updata:
+0 - start point
+1 - tax rate
+Please enter 0 or 1: The tax rate table: 
+          Level          Start            End           Rate
+              1           0.00         500.00           0.05
+              2         500.00        2000.00           0.10
+              3        2000.00        5000.00           0.15
+              4        5000.00       20000.00           0.20
+              5       20000.00            +oo           0.25
+
+Which level you want to updata: 
+Please enter the new rate: Update succeeded!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Choose a type you want to updata:
+0 - start point
+1 - tax rate
+Please enter 0 or 1: 
+Please enter the new start point: Update succeeded!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 0.0
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 745.5
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 1201.2
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Choose a type you want to updata:
+0 - start point
+1 - tax rate
+Please enter 0 or 1: The tax rate table: 
+          Level          Start            End           Rate
+              1           0.00         500.00           0.05
+              2         500.00        2000.00           0.10
+              3        2000.00        5000.00           0.15
+              4        5000.00       20000.00           0.10
+              5       20000.00            +oo           0.25
+
+Which level you want to updata: 
+Please enter the new rate: Update succeeded!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Choose a type you want to updata:
+0 - start point
+1 - tax rate
+Please enter 0 or 1: The tax rate table: 
+          Level          Start            End           Rate
+              1           0.00         500.00           0.80
+              2         500.00        2000.00           0.10
+              3        2000.00        5000.00           0.15
+              4        5000.00       20000.00           0.10
+              5       20000.00            +oo           0.25
+
+Which level you want to updata: 
+Please enter the new rate: Update succeeded!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Choose a type you want to updata:
+0 - start point
+1 - tax rate
+Please enter 0 or 1: The tax rate table: 
+          Level          Start            End           Rate
+              1           0.00         500.00           0.80
+              2         500.00        2000.00           0.10
+              3        2000.00        5000.00           0.15
+              4        5000.00       20000.00           0.80
+              5       20000.00            +oo           0.25
+
+Which level you want to updata: 
+Please enter the new rate: Update succeeded!
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
+Please enter the total monthly salary income: Your individual income tax is : 12043.2
+
+Main menu:
+Please enter the proper number to choose the function:
+0 - calcator the individual income tax
+1 - update the data
+2 - exit the system
+Your choose : 
